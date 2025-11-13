@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+.env
+.venv
+.docs/mp3/video_demo.mp4
