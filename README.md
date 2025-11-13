@@ -45,6 +45,7 @@ pip install --upgrade azure-cognitiveservices-speech
 ![Imagen container](docs/img/DockerHub.png)
 
 
+
 ---
 
 ## 🧩 Estructura del proyecto
